@@ -1,6 +1,6 @@
 (function($) {
     // Range of shoulder to waist length normally found - size M
-    var STOW_RANGE = [14.5, 16];
+    var STOW_RANGE = [15, 16];
 
     function getFileContents($file, callback) {
         var file = $file[0].files[0];

@@ -92,7 +92,8 @@ input {
     text-align: center;
     font-weight: 400;
     margin: 0 0 1em 0;
-    font-size: 1.3em;
+    font-size: 1em;
+    height: 3em;
 }
 
 .image .shoulder,
